@@ -1,0 +1,10 @@
+sentences.txt
+(nao alterar)
+HANGMAN
+
+Try to guess the word/sentence
+Each letter is represented by an '*'
+You have 7 trials
+
+(nao alterar)
+7
